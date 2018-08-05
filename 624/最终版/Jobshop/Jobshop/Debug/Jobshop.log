@@ -1,0 +1,6 @@
+﻿  Initialization.cpp
+  Output.cpp
+c:\users\帆\desktop\最终版\jobshop\jobshop\output.cpp(320): warning C4101: “k”: 未引用的局部变量
+c:\users\帆\desktop\最终版\jobshop\jobshop\output.cpp(320): warning C4101: “p”: 未引用的局部变量
+  正在生成代码...
+  Jobshop.vcxproj -> C:\Users\帆\Desktop\最终版\Jobshop\Debug\Jobshop.exe
