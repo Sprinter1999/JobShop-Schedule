@@ -1,3 +1,4 @@
-＃第一次上传
-可能还不是很规范
-不过是我们寝室几天内翘课速成的大作业了
+It's developed by my best companions-Zibo Chan,Yifan Zhu,and me.
+We shared a fantastic week to complete this project and achieved 100 grades.
+Many thanks to my friends who once gived me advice on some details of this project.
+And many thanks to Mrs.Zhang.
