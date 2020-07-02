@@ -20,9 +20,9 @@ And many thanks to 张老师.
 
 ## 展示
 1. 任务概况
-![bike](./pics/bike.png)
+![bike](./pics/bike.jpg)
 2. 测试用例
 每一行为：第1~N道工序，需要指定在哪个机器上加工多长时间
-![testdata](./pics/testdata.png)
+![testdata](./pics/testdata.jpg)
 3. Gantte图展示
-![ege](./pics/ege.png)
+![ege](./pics/ege.jpg)
